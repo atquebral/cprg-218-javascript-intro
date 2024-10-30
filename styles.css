@@ -1,0 +1,16 @@
+body{
+    background-color:black;
+    color:#333333;
+}
+.light{
+    background-color:white;
+    color:black;
+}
+
+#secret{
+    display:block;
+}
+
+#lights_off{
+    display:none; /* tells it to not show it*/
+}
